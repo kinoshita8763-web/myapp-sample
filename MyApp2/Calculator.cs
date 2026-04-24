@@ -1,5 +1,5 @@
 ﻿//123457
-namespace MyApp;
+namespace MyApp2;
 
 public class Calculator
 {

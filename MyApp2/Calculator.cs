@@ -1,4 +1,5 @@
-﻿namespace MyApp;
+﻿//123457
+namespace MyApp;
 
 public class Calculator
 {
@@ -7,4 +8,3 @@ public class Calculator
 }
 
 
-//123457
